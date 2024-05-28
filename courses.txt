@@ -1,0 +1,3 @@
+CS101 , computer , ali , ahmadi , 3
+CS102 , dini , mmd , mohebi , 2
+CS102 , dini , ali , mokhtari , 2
